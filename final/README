@@ -1,0 +1,8 @@
+使用的Tookit:
+python 3.5.4
+keras 2.0.8
+tensorflow 1.0.1
+gensim 3.2.0
+=======================
+執行方法：
+bash predict.bash "test.data file path" "test.csv file path" "predict.csv file path"
